@@ -1,7 +1,10 @@
-#Лабораторная работа 1
+# Лабораторная работа 1
 
 Работа начинается с инициализации сессии и загрузки необходимых данных: 
-![1](https://github.com/vmokook/BigData/blob/main/LR1/Images/2.png)
+
+![1][https://github.com/vmokook/BigData/blob/main/LR1/Images/1.png)
+
+![2]([https://github.com/vmokook/BigData/blob/main/LR1/Images/2.png],[https://github.com/vmokook/BigData/blob/main/LR1/Images/3.png])
 
 ##1. Найти велосипед с максимальным временем пробега.
   Для нахождения велосипеда с максимальным временем пробега для начала выполняется группировка данных
