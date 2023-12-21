@@ -70,5 +70,7 @@
 ![14](https://github.com/vmokook/BigData/blob/main/LR2/Image/14.png) 
 ![15](https://github.com/vmokook/BigData/blob/main/LR2/Image/15.png) 
 
+
 ![16](https://github.com/vmokook/BigData/blob/main/LR2/Image/16.png) 
+
 ![17](https://github.com/vmokook/BigData/blob/main/LR2/Image/17.png) 
