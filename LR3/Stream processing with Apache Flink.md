@@ -1,6 +1,6 @@
 # Лабораторная работа 3 
 
-Необходимо выполнить здаания из репозитория https://github.com/ververica/flink-training-exercises. 
+Необходимо выполнить задания из репозитория https://github.com/ververica/flink-training-exercises. 
 
 Результаты проведения тестов представлены ниже. 
 
